@@ -1,0 +1,5 @@
+The hardware is very simple :
+* An ATtiny2313 with crystal at 20MHz
+* 2 2N1177 NPN transistor in darlington to control 5 LED
+* ISP programming port
+* Alimentation direct in 3V with 2 battery (without protection so be carreful)
