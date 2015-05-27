@@ -1,0 +1,5 @@
+The program is a simple blink with à duty cycle at 50%
+
+We just have to configure frequency in file blink.h and compile the program
+
+The program is compiling for an attiny2313 with frequency crystal at 20MHz
