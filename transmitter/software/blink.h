@@ -2,6 +2,6 @@
 #define __BLINK_H__
 
 // Define Freq to blink (in Hz)
-#define FREQ 1464
+#define FREQ 7031
 
 #endif
